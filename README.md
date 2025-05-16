@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @BeardedTesterUK
-- 👀 I’m interested in Testing, Just all the things. Mostly looking at automation at the moment.
-- 🌱 I’m currently learning to build a framework, using Java, Selenium and Cucumber. Trying to figure out all the tricks to make sure its done right.
-- 💞️ I’m looking to collaborate on Any help to a self taught automation engineer
-- 📫 How to reach me Twitter @BeardedTesterUK
+- 👀 I’m interested in Testing, Automation using PlayWright, Selenium with JAVA, Typescript, Python. Dabling in Software Development too
+- 🌱 I’m currently learning a number of languages in a more robust software development mindset, to help supplement overall knowledge especially in a Test Automation sense.
+- 💞️ I’m looking to collaborate on any and all tips that can help to a self taught automation engineer
 
 <!---
 BeardedTesterUK/BeardedTesterUK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
